@@ -1,0 +1,6 @@
+# 맥 시스템 파일
+.DS_Store
+
+# 무시할 폴더
+naver_blog_html/
+naver_blog_pdf/
