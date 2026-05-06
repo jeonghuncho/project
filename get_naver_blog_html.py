@@ -6,7 +6,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 
-# 설정123
+# 설정
 BLOG_ID = "isanghangot"
 MAX_POSTS = 3
 MAX_PAGE = 20
